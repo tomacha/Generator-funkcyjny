@@ -1,1 +1,3 @@
 # Generator-funkcyjny
+
+Ł
