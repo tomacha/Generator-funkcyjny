@@ -39,7 +39,7 @@ Dla tablicy o ilości elementów n, PIT0 powinien generować przerwania z częst
 # 5.	Generowanie tablic
 Tablice przebiegów powstają poprzez pobranie równo oddalonych od siebie próbek z jednego okresu wybranego przebiegu. Żeby uzyskać jak najwyższą częstotliwość maksymalną przy zachowaniu kształtu przebiegu zdecydowałem się na tablice zawierające 20 próbek. 
 
-Aby wygenerować tablice dla przebiegu sinusoidalnego i trójkątnego użyłem poniższego skryptu w języku Python.  
+Aby wygenerować tablice dla przebiegu sinusoidalnego i trójkątnego użyłem skryptu w języku Python.  
 
 Generator powinien bez większych problemów działać dla tablic innych prostych przebiegów przy zachowaniu długości 20 oraz wartości próbek z zakresu 0x00 – 0x28 (0-40).
 
